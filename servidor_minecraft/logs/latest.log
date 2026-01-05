@@ -1,0 +1,661 @@
+[06:19:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:19:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:19:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:19:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[06:19:30] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_472, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[06:19:31] [main/INFO] [FML]: Searching /workspaces/server-mc/servidor_minecraft/./mods for mods
+[06:19:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.3.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:19:31] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[06:19:31] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[06:19:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.47_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:19:31] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:19:31] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[06:19:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
+[06:19:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:19:31] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:19:31] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[06:19:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MixinBootstrap-1.0.5.jar
+[06:19:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:19:31] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[06:19:31] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from wolfarmor-1.12.2-3.7.5-universal-signed.jar
+[06:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[06:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[06:19:31] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/workspaces/server-mc/servidor_minecraft/./mods/MixinBootstrap-1.0.5.jar Service=LaunchWrapper Env=SERVER
+[06:19:31] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[06:19:31] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[06:19:31] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[06:19:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[06:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:19:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[06:19:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:19:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[06:19:33] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[06:19:33] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[06:19:33] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[06:19:33] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:33] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:33] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:33] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[06:19:33] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:33] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[06:19:33] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:33] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:33] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[06:19:33] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[06:19:33] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:33] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:33] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[06:19:33] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:33] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[06:19:34] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:34] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[06:19:34] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:34] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[06:19:34] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:35] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[06:19:35] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[06:19:35] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[06:19:35] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[06:19:35] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[06:19:35] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:35] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:35] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:35] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:35] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[06:19:35] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[06:19:35] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:35] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[06:19:35] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:35] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[06:19:35] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[06:19:35] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:35] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[06:19:35] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:35] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[06:19:35] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[06:19:35] [main/INFO] [Quark ASM]: Failed to locate the method!
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:36] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[06:19:36] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[06:19:36] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:36] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[06:19:36] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:37] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[06:19:37] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[06:19:37] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[06:19:37] [main/INFO] [Quark ASM]: Located Method, patching...
+[06:19:37] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:19:37] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:19:37] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:19:37] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:19:37] [main/INFO] [Quark ASM]: Patch result: true
+[06:19:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[06:19:37] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[06:19:37] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[06:19:37] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[06:19:37] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[06:19:38] [Server thread/INFO] [FML]: Searching /workspaces/server-mc/servidor_minecraft/./mods for mods
+[06:19:38] [Server thread/INFO] [FML]: Disabling mod betterfoliage it is client side only.
+[06:19:39] [Server thread/INFO] [FML]: Disabling mod mobdismemberment it is client side only.
+[06:19:39] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[06:19:39] [Server thread/INFO] [FML]: Forge Mod Loader has identified 35 mods to load
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for aiimprovements: assets/aiimprovements/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for lostsouls: assets/lostsouls/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for additionalstructures: assets/additionalstructures/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
+[06:19:39] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[06:19:39] [Server thread/INFO] [FML]: FML has found a non-mod file BetterFoliage-MC1.12-2.3.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[06:19:39] [Server thread/INFO] [FML]: FML has found a non-mod file MobDismemberment-1.12.2-7.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[06:19:39] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[06:19:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, aiimprovements, autoreglib, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, dynamictrees, dynamictreesbop, familiarfauna, forgelin, ichunutil, jei, lostcities, lostsouls, mcwbridges, quark, additionalstructures, roguelike, spartanshields, spartanweaponry, srparasites, stg, wolfarmor, worldedit, zombieawareness, orelib, betteranimalsplus] at CLIENT
+[06:19:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, aiimprovements, autoreglib, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, dynamictrees, dynamictreesbop, familiarfauna, forgelin, ichunutil, jei, lostcities, lostsouls, mcwbridges, quark, additionalstructures, roguelike, spartanshields, spartanweaponry, srparasites, stg, wolfarmor, worldedit, zombieawareness, orelib, betteranimalsplus] at SERVER
+[06:19:40] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[06:19:40] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[06:19:40] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[06:19:40] [Server thread/INFO] [Quark ASM]: Patch result: true
+[06:19:41] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[06:19:41] [Server thread/INFO] [FML]: Found 1213 ObjectHolder annotations
+[06:19:41] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[06:19:41] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[06:19:41] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[06:19:41] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[06:19:41] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[06:19:41] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[06:19:41] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/ferreusveritas/DynamicTrees/blob/1.12.2/version_info.json?raw=true
+[06:19:42] [Server thread/INFO] [Quark]: Module decoration is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module client is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module experimental is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module building is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module vanity is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module automation is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module management is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module world is enabled
+[06:19:42] [Server thread/INFO] [Quark]: Module misc is enabled
+[06:19:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[06:19:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2864
+[06:19:44] [Server thread/INFO] [biomesoplenty]: bayou.json: Detected config file 
+[06:19:44] [Server thread/INFO] [biomesoplenty]: bog.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: dead_forest.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: dead_swamp.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: grove.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: marsh.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: meadow.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: orchard.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: redwood_forest.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: seasonal_forest.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: wasteland.json: Detected config file 
+[06:19:45] [Server thread/INFO] [biomesoplenty]: redwood_forest_edge.json: Detected config file 
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/server-mc/servidor_minecraft/config/DLDungeonsJBG
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/server-mc/servidor_minecraft/config/DLDungeonsJBG/themes/
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/server-mc/servidor_minecraft/config/DLDungeonsJBG/themes
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/server-mc/servidor_minecraft/config/DLDungeonsJBG/themes
+[06:19:46] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/server-mc/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
+[06:19:46] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[06:19:46] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[06:19:46] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[06:19:46] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[06:19:46] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:109]: DynamicTrees BlackListed DimValue: 7
+[06:19:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[06:19:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[06:19:46] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[06:19:46] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[06:19:46] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[06:19:46] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[06:19:46] [Server thread/INFO] [wolfarmor]: Registered new provider SophisticatedWolvesProvider for mod sophisticatedwolves
+[06:19:46] [Server thread/INFO] [wolfarmor]: Registered new provider LetSleepingDogsLieProvider for mod dogslie
+[06:19:46] [Server thread/INFO] [FML]: Applying holder lookups
+[06:19:46] [Server thread/INFO] [FML]: Holder lookups applied
+[06:19:46] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Copper
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Tin
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Bronze
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Steel
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Silver
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Invar
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Platinum
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Electrum
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Nickel
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for material: Lead
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[06:19:47] [Server thread/INFO] [FML]: Applying holder lookups
+[06:19:47] [Server thread/INFO] [FML]: Holder lookups applied
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Registered Enchantments!
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[06:19:47] [Server thread/INFO] [FML]: Applying holder lookups
+[06:19:47] [Server thread/INFO] [FML]: Holder lookups applied
+[06:19:47] [Server thread/INFO] [FML]: Applying holder lookups
+[06:19:47] [Server thread/INFO] [FML]: Holder lookups applied
+[06:19:47] [Server thread/INFO] [FML]: Injecting itemstacks
+[06:19:47] [Server thread/INFO] [FML]: Itemstack injection complete
+[06:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[06:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[06:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[06:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[06:19:47] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[06:19:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:19:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[06:19:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:19:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:19:47] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[06:19:47] [Server thread/INFO] [FML]: Applying holder lookups
+[06:19:47] [Server thread/INFO] [FML]: Holder lookups applied
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[06:19:47] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[06:19:47] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[06:19:47] [Server thread/INFO] [FML]: Injecting itemstacks
+[06:19:47] [Server thread/INFO] [FML]: Itemstack injection complete
+[06:19:47] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:94)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1509)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1506)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[06:19:47] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Loading custom NBT tags (nbt.cfg)
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (chests.cfg)
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Found 1 special chest configs.
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (oceanic_chests.cfg)
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Found 6 block family configs.
+[06:19:47] [Server thread/INFO] [DLDUNGEONS]: Found 12 themes.
+[06:19:48] [Server thread/INFO] [iChunUtil]: =============================================================
+[06:19:48] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[06:19:48] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[06:19:48] [Server thread/INFO] [iChunUtil]: =============================================================
+[06:19:48] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10) is loaded
+[06:19:48] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[06:19:48] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[06:19:48] [Server thread/INFO] [wolfarmor]: Setting up compatibility providers...
+[06:19:48] [Server thread/INFO] [wolfarmor]: Setting up compatibility providers...
+[06:19:48] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 35 mods
+[06:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Tilinshub"
+[06:19:48] [Server thread/INFO] [FML]: Loading dimension 0 (Tilinshub) (net.minecraft.server.dedicated.DedicatedServer@53ce3111)
+[06:19:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 766 advancements
+[06:19:49] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[06:19:49] [Server thread/INFO] [FML]: Loading dimension 1 (Tilinshub) (net.minecraft.server.dedicated.DedicatedServer@53ce3111)
+[06:19:49] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[06:19:49] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[06:19:49] [Server thread/INFO] [FML]: Loading dimension -1 (Tilinshub) (net.minecraft.server.dedicated.DedicatedServer@53ce3111)
+[06:19:49] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[06:19:49] [Server thread/INFO] [FML]: Loading dimension 111 (Tilinshub) (net.minecraft.server.dedicated.DedicatedServer@53ce3111)
+[06:19:49] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[06:19:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[06:19:50] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[06:19:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[06:19:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[06:19:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[06:19:53] [Server thread/WARN] [FML]: Quark loaded a new chunk [-24, 15] in dimension 0 (overworld) while populating chunk [-25, 16], causing cascading worldgen lag.
+[06:19:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:19:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[06:19:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 34%
+[06:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[06:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[06:19:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
+[06:19:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
+[06:19:59] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-10, 12] in dimension 0 (overworld) while populating chunk [-11, 12], causing cascading worldgen lag.
+[06:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:19:59] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-10, 13] in dimension 0 (overworld) while populating chunk [-11, 12], causing cascading worldgen lag.
+[06:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:19:59] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-11, 13] in dimension 0 (overworld) while populating chunk [-11, 12], causing cascading worldgen lag.
+[06:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:19:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
+[06:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (12.205s)! For help, type "help" or "?"
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "moose" (biome was mistyped or a biome mod was removed?): abyssalcraft:coralium_infested_swamp
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_hills
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_mountains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_hills
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_mountains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goose" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "eel_freshwater" (biome was mistyped or a biome mod was removed?): abyssalcraft:coralium_infested_swamp
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_hills
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_mountains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lamprey" (biome was mistyped or a biome mod was removed?): abyssalcraft:coralium_infested_swamp
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_hills
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_mountains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): abyssalcraft:coralium_infested_swamp
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_plains
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "crab" (biome was mistyped or a biome mod was removed?): abyssalcraft:coralium_infested_swamp
+[06:20:00] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): abyssalcraft:darklands_forest
+[06:20:01] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[06:20:01] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[06:20:01] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[06:20:01] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[06:20:01] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[06:20:01] [Server thread/INFO] [Quark ASM]: Patch result: true
+[06:20:01] [Server thread/INFO] [FML]: Unloading dimension 1
+[06:20:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[06:20:01] [Server thread/INFO] [FML]: Unloading dimension 111
+[06:20:01] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[06:22:22] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[06:22:22] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,lostsouls@1.1.4,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,mcp@9.42,autoreglib@1.3-32,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.8.2,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,additionalstructures@2.3.1,ichunutil@7.2.2,forge@14.23.5.2854,dynamictrees@1.12.2-0.9.22,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[06:22:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:22:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ke_vonzzz[/127.203.198.81:38355] logged in with entity id 1792 at (-266.5, 66.0, 260.5)
+[06:22:24] [Server thread/INFO] [dsurround]: Player [ke_vonzzz] connected with Dynamic Surroundings 3.6.2.1
+[06:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz joined the game
+[06:26:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ke_vonzzz lost connection: Disconnected
+[06:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz left the game
+[06:28:57] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[06:28:57] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,xaerolib@1.0.44,lostsouls@1.1.4,xaerolib_core@1.12.2-1.0,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,xaerominimap@25.3.5,mcp@9.42,xaeroworldmap@1.40.5,autoreglib@1.3-32,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.8.2,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,xaerominimap_core@1.12.2-1.0,additionalstructures@2.3.1,ichunutil@7.2.2,forge@14.23.5.2854,xaeroworldmap_core@1.12.2-1.0,dynamictrees@1.12.2-0.9.22,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[06:28:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:28:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ke_vonzzz[/127.203.198.81:33579] logged in with entity id 7156 at (-211.76288151125652, 64.0, 327.12541316654045)
+[06:28:59] [Server thread/INFO] [dsurround]: Player [ke_vonzzz] connected with Dynamic Surroundings 3.6.2.1
+[06:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz joined the game
+[06:29:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:31:07] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[06:31:07] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[06:31:07] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[06:31:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:31:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:31:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:31:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[06:31:07] [Server thread/INFO] [Quark ASM]: Patch result: true
+[06:31:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Stone Age]
+[06:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Monster Hunter]
+[06:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz was slain by Zombie
+[06:35:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz was slain by Zombie
+[06:35:12] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (-14, 29) should be (-13, 29), EntitySquid['Squid'/11716, l='Tilinshub', x=-209.69, y=53.44, z=478.68]
+[06:35:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:squid but it was marked as removed already
+[06:35:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ke_vonzzz lost connection: Timed out
+[06:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz left the game
+[06:36:50] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[06:36:50] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,mcwbridges@1.0.4,wolfarmor@3.7.5,extendedrenderer@v1.0,dldungeonsjbg@1.13.2,dynamictreesbop@1.12.2-1.4.4,mousetweaks@2.10,biomesoplenty@7.0.1.2444,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.302,xaerolib@1.0.44,lostsouls@1.1.4,xaerolib_core@1.12.2-1.0,roguelike@2.3.1,quark@r1.6-179,spartanshields@1.5.4,xaerominimap@25.3.5,mcp@9.42,xaeroworldmap@1.40.5,autoreglib@1.3-32,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,familiarfauna@1.0.11,stg@1.12.2-1.2.2,coroutil@1.12.1-1.2.37,srparasites@1.8.2,worldedit@6.1.10,spartanweaponry@beta 1.3.8,aiimprovements@0.0.1.3,xaerominimap_core@1.12.2-1.0,additionalstructures@2.3.1,ichunutil@7.2.2,forge@14.23.5.2854,xaeroworldmap_core@1.12.2-1.0,dynamictrees@1.12.2-0.9.22,betterfoliage@2.3.1,orelib@3.6.0.1,dsurround@3.6.2.1
+[06:36:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:36:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ke_vonzzz[/127.203.198.81:60049] logged in with entity id 12093 at (-215.46305698659924, 60.45337535446804, 380.5675591661415)
+[06:36:51] [Server thread/INFO] [dsurround]: Player [ke_vonzzz] connected with Dynamic Surroundings 3.6.2.1
+[06:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz joined the game
+[06:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Getting an Upgrade]
+[06:44:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Acquire Hardware]
+[06:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Isn't It Iron Pick]
+[06:53:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Suit Up]
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-40, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-40, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-39, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-38, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-37, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 40] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 41] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-39, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-38, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 32] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 32] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 31] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 34] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:37] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 33] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 32] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 36] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 30] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 32] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-47, 32] in dimension 0 (overworld) while populating chunk [-46, 32], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 37] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 40] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-40, 35] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-39, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-40, 39] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-39, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:38] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-40, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:39] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 38] in dimension 0 (overworld) while populating chunk [-30, 30], causing cascading worldgen lag.
+[06:59:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:59:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3559ms behind, skipping 71 tick(s)
+[07:00:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-33, 37] in dimension 0 (overworld) while populating chunk [-33, 36], causing cascading worldgen lag.
+[07:00:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:00:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-32, 36] in dimension 0 (overworld) while populating chunk [-33, 36], causing cascading worldgen lag.
+[07:00:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:00:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-32, 37] in dimension 0 (overworld) while populating chunk [-33, 36], causing cascading worldgen lag.
+[07:00:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:14] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-40, 23] in dimension 0 (overworld) while populating chunk [-40, 24], causing cascading worldgen lag.
+[07:24:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:14] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-41, 23] in dimension 0 (overworld) while populating chunk [-40, 24], causing cascading worldgen lag.
+[07:24:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:14] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-41, 33] in dimension 0 (overworld) while populating chunk [-40, 33], causing cascading worldgen lag.
+[07:24:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:54] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-44, 15] in dimension 0 (overworld) while populating chunk [-43, 16], causing cascading worldgen lag.
+[07:24:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz was crushed by a falling tree
+[07:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped ke_vonzzz
+[07:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Teleported ke_vonzzz to -595.5, 76.5, 392.5]
+[07:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz has made the advancement [Sweet dreams]
+[07:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Teleported ke_vonzzz to -651.2644349556751, -1400.0, 459.42510762389327]
+[07:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz fell out of the world
+[07:34:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Teleported ke_vonzzz to -651.5, -1497.5, 459.5]
+[07:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz fell out of the world
+[07:35:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Set own game mode to Spectator Mode]
+[07:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Teleported ke_vonzzz to -651.5, -1620.5, 459.5]
+[07:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ke_vonzzz fell out of the world
+[07:35:25] [Server thread/WARN] [FML]: Quark loaded a new chunk [-35, 13] in dimension 0 (overworld) while populating chunk [-35, 11], causing cascading worldgen lag.
+[07:35:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:25] [Server thread/WARN] [FML]: Quark loaded a new chunk [-35, 12] in dimension 0 (overworld) while populating chunk [-35, 11], causing cascading worldgen lag.
+[07:35:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:25] [Server thread/WARN] [FML]: Quark loaded a new chunk [-36, 12] in dimension 0 (overworld) while populating chunk [-35, 11], causing cascading worldgen lag.
+[07:35:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ke_vonzzz: Set own game mode to Creative Mode]
